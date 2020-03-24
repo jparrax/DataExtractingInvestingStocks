@@ -1,4 +1,4 @@
-Type on the cmd when you are in this folder
+#Type on the cmd when you are in this folder
 
 Mkdir Stocks
 
@@ -28,7 +28,7 @@ Mkdir RealS
 
 Mkdir Utilities
 
-Type on Anaconda Prompt
+#Type on Anaconda Prompt
 
 pip install pandas
 

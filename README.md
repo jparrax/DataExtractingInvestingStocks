@@ -33,3 +33,5 @@ Mkdir Utilities
 pip install pandas
 
 pip install investpy==0.9.14
+
+pip install BeautifulSoup4
